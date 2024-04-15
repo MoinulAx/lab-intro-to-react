@@ -1,0 +1,16 @@
+.contacts{
+    grid-area: columTwo;
+    display: grid;
+    border: 2px solid black;
+    gap: 10px;
+    padding: 10px;
+    height: fit-content;
+}
+
+
+
+.contact__usercard{
+    border: 2px solid black;
+    padding: 10px;
+
+}

@@ -1,0 +1,15 @@
+.navBar{
+    
+    background-color: aqua;
+    display: flex;
+    flex-direction: row;
+    grid-area: NavBar;
+    border: 2px solid black;
+    width: 100%;
+    justify-content: end;
+}
+
+button{
+    margin: 10px;
+}
+
